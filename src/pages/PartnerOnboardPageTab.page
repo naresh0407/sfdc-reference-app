@@ -105,7 +105,7 @@
         }
         
         .data2Col > input[type="text"], .requiredInput1 {
-        background: rgba(0, 0, 0, 0) linear-gradient(to top, white 80%, #e5e5e5 100%) repeat scroll 0 0;
+        background: rgba(0, 0, 0, 0) linear-gradient(to top, white 90%, #e5e5e5 100%) repeat scroll 0 0;
         border: 2px solid #e6e6e6;
         box-sizing: border-box;
         color: #999999;
