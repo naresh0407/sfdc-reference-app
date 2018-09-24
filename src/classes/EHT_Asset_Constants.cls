@@ -1,7 +1,7 @@
 /************************************************************************************************************************************************************
     Name:           EHT_Asset_Constants
     Author:         Accenture
-    Description:    This Classss contains all the constants for EHT Asset classessssssssssssssssssssssss.
+    Description:    This Classss contains all the constants for EHT Asset classessss.
     Date                  PRJ/DFCT/ENHC#          Summary of Changes 
     ---------------     ------------------      ------------------------------
     5th Oct 2015        EHT Asset                Initial                                                                          
