@@ -10,7 +10,7 @@
     
         #pageHeader {
         height: auto;
-        top: 15%;
+        top: 16%;
         width: 100%;
         
         color: #ffffff;
